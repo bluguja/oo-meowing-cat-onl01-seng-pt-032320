@@ -4,7 +4,7 @@ class Cat
   def initialize(name)
     @name = name
     
-  def name= dog_name
+  def name= cat_name
     @name = dog_name
   end 
 
