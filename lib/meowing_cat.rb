@@ -14,7 +14,7 @@ class Cat
   
 end 
 
-class Dog
-  def bark
-    puts "woof!"
+class Cat
+  def meow
+    puts "meow!"
   end 
